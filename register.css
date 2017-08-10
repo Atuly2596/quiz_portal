@@ -1,0 +1,43 @@
+body
+{
+	background-image:url("at.jpg");
+	margin-top:3%;
+	margin-left:40%;
+}
+.a
+{
+	opacity:1;
+	background:transparent;
+}
+.b
+{
+	width:100%;
+	height:120%;
+	border:2px solid white;
+	border-radius:6px;
+}
+h3
+{
+  color:white;
+  font-size:25pt;
+  margin-left:7%;
+}	
+.c
+{
+	width:100%;
+	height:120%;
+	color:white;
+	font-size:15px;
+	background-color:green;
+	border:2px solid green;
+	border-radius:6px;
+}
+.d
+{
+	color:white;
+	font-size:19;
+}
+.error
+{
+    color:red;
+}
